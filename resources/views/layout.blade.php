@@ -91,21 +91,37 @@
         <span class="ml-auto">Desarrollado por <a href="#">Sistema Venta</a></span>
     </footer>
 
+
+
+
     <!-- Bootstrap and necessary plugins -->
     <script src="vendors/js/jquery.min.js"></script>
+    <script src="vendors/js/bootstrap.min.js"></script>
 
+ 
     <!-- Vue JS(below jquery works) -->
          <script src="js/app.js"></script>
     <!-- Vue JS -->
 
-    <script src="vendors/js/popper.min.js"></script>
-    <script src="vendors/js/bootstrap.min.js"></script>
+         
+
+
+     <script src="vendors/js/popper.min.js"></script>
+  
     <script src="vendors/js/pace.min.js"></script>
-    <!-- Plugins and scripts required by all views -->
-    <script src="vendors/js/Chart.min.js"></script>
-    <!-- GenesisUI main scripts -->
+  <!-- GenesisUI main scripts -->
     <script src="vendors/js/template.js"></script>
 
+
+
+  
+
+          <!-- Plugins and scripts required by all views -->
+    <script src="vendors/js/Chart.min.js"></script>
+
+
+
+  
   
 </body>
 
